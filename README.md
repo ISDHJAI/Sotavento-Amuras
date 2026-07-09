@@ -1,1 +1,1 @@
-# Sotavento-Amuras
+# Amuras
